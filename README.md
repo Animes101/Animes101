@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Animes101/Animes101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Animes  
+🚀 Beginner Web Developer | MERN Stack Learner | Passionate Coder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Frontend:** React, Tailwind CSS, React Router  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Others:** Git, GitHub, REST API, JavaScript (ES6+)  
+
+---
+
+## 📊 GitHub Stats
+![Animes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animes101&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animes101&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/animes-barman-6470692b9/)  
+- [Portfolio](https://yourportfolio.com)  
+- 📧 Email: animesbarman101@gamil.com  
+
+---
+
+⭐️ *“Always learning, always building — one commit at a time!”*  

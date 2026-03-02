@@ -22,8 +22,8 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/animes-barman-6470692b9/)  
 - [Portfolio](https://yourportfolio.com)  
-- 📧 Email: animesbarman101@gamil.com  
+- 📧 Email: animesbarman101@gmail.com  
 
 ---
 
-⭐️ *“Always learning, always building — one commit at a time!”*  
+⭐️ *“Always learning, always building — one commit at a time!”*
